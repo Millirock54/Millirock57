@@ -1,0 +1,33 @@
+.my_button{
+    background-color: #e0a067;
+    color: #fff;
+}
+.my_button:hover{
+    background-color: #312f30;
+    color: #fff;
+}
+.my_form{
+    border: none;
+}
+.location{
+    color: #e0a067
+}
+.my_imgs{
+    background-image: url(../images/photo-1617456155265-8285821477acdubem.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.my_picture{
+    background-image: url(../images/photo-1617423888022-1af2ac17ad41chi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.my_media{
+    color: #e0a067;
+}
+.my_container{
+    background-image: url(../images/photo-1614292264554-7dca1d6466d6millirock.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
